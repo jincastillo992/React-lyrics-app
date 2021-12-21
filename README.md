@@ -1,3 +1,4 @@
+`Important:` To make it work, run the proyect, then open the console in the browser and go to the cors-anywhere website to be able to fetch the api info from Musixmatch
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
